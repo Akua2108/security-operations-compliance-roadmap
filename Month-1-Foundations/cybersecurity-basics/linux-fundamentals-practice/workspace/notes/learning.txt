@@ -1,0 +1,3 @@
+My Terminal Practice Project
+Commands: echo, ls, cd, find, cat, grep
+Operators: &, &&, >, >>
